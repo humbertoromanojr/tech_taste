@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1Hzy58C2V9femT71kkl9wCB9D-Yru9_D6" alt="" width="100%" border="0" />
+  <img src="https://drive.google.com/uc?export=view&id=1WYpcf0h62FEtJmRuYIrnJfWfifWYRsXT" alt="" width="100%" border="0" />
 <br>
 
 TECH TASTE
@@ -12,11 +12,11 @@ TECH TASTE
 
 ![Badge](https://img.shields.io/static/v1?label=flutter&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
 
-![Badge](https://img.shields.io/github/issues/humbertoromanojr/headbanger-forever?logo=visual-studio-code&style=plastic&logo=appveyor)
-![Badge](https://img.shields.io/github/forks/humbertoromanojr/headbanger-forever)
-![Badge](https://img.shields.io/github/stars/humbertoromanojr/headbanger-forever)
-![Badge](https://img.shields.io/github/license/humbertoromanojr/headbanger-forever)
-![Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fhumbertoromanojr%2Fheadbanger-forever)
+![Badge](https://img.shields.io/github/issues/humbertoromanojr/tech_taste?logo=visual-studio-code&style=plastic&logo=appveyor)
+![Badge](https://img.shields.io/github/forks/humbertoromanojr/tech_taste)
+![Badge](https://img.shields.io/github/stars/humbertoromanojr/tech_taste)
+![Badge](https://img.shields.io/github/license/humbertoromanojr/tech_taste)
+![Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fhumbertoromanojr%2Ftech_taste)
 
 ### Libraries
 
@@ -33,27 +33,24 @@ TECH TASTE
 ## Demonstration
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=" alt="" width="100%" border="0" />
+  <img src="https://drive.google.com/uc?export=view&id=1EH3GDIK5EhrfenmWnFM2XsNYtf690tzR" alt="" width="100%" border="0" />
 </div>
 
 ## Project Dynamics
 
 ## Install
 
-Install React Native CLI <br />
-`npx @react-native-community/cli init NewProject` <br />
+Install Flutter <br />
+`https://docs.flutter.dev/get-started/install` <br />
 
 Clone project to repository:<br />
 <img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" />
-git clone `https://humbertoromanojr@bitbucket.org/humbertoromanojr/headbanger-forever.git`
+git clone `https://github.com/humbertoromanojr/tech_taste`
 
-<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to `headbanger-forever` folder <br />
-
-Install node_modules <br />
-<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npm i`
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to `tech_taste` folder <br />
 
 Run application <br />
-<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npx start`
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `flutter run`
 
 ## License
 
