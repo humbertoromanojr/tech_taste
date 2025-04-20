@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1WYpcf0h62FEtJmRuYIrnJfWfifWYRsXT" alt="" width="100%" border="0" />
+  <img src="https://drive.google.com/uc?export=view&id=1WYpcf0h62FEtJmRuYIrnJfWfifWYRsXT" alt="" width="50%" border="0" />
 <br>
 
 TECH TASTE
@@ -23,12 +23,6 @@ TECH TASTE
 - <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> —
   Flutter transforms the development process. Build, test, and deploy beautiful mobile, web, desktop, and embedded experiences from a single codebase.
   <br /><br />
-
-- [React Native](https://reactnative.dev/)
-
-- [React Navigation](https://reactnavigation.org/docs/getting-started#installation)
-  - [React Navigation Native Stack](https://reactnavigation.org/docs/hello-react-navigation)
-  - [React Navigation Bottom Tab Navigator](https://reactnavigation.org/docs/upgrading-from-5.x/#bottom-tab-navigator)
 
 ## Demonstration
 
