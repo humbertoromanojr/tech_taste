@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1u-J5lvj7EH76_gp7eUKwQrM7fR3w0Si2" alt="" width="100%" border="0" />
+  <img src="https://drive.google.com/uc?export=view&id=1Hzy58C2V9femT71kkl9wCB9D-Yru9_D6" alt="" width="100%" border="0" />
 <br>
 
-:metal::metal::metal: Headbanger Forever :metal: :metal: :metal:
+TECH TASTE
 
 </h1>
 
@@ -10,7 +10,7 @@
 
 ## Shields
 
-![Badge](https://img.shields.io/static/v1?label=reactnative&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
+![Badge](https://img.shields.io/static/v1?label=flutter&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
 
 ![Badge](https://img.shields.io/github/issues/humbertoromanojr/headbanger-forever?logo=visual-studio-code&style=plastic&logo=appveyor)
 ![Badge](https://img.shields.io/github/forks/humbertoromanojr/headbanger-forever)
@@ -20,7 +20,8 @@
 
 ### Libraries
 
-- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> — Learn once, write anywhere. Create native apps for Android and iOS using React. React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces.
+- <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> —
+  Flutter transforms the development process. Build, test, and deploy beautiful mobile, web, desktop, and embedded experiences from a single codebase.
   <br /><br />
 
 - [React Native](https://reactnative.dev/)
