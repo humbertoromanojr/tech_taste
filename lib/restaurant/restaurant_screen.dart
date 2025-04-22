@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 import 'package:tech_taste/model/dish.dart';
 
 import 'package:tech_taste/model/restaurant.dart';
+import 'package:tech_taste/ui/_core/bag_provider.dart';
 import 'package:tech_taste/ui/_core/widgets/appbar.dart';
 
 class RestaurantScreen extends StatelessWidget {
@@ -38,7 +40,12 @@ class RestaurantScreen extends StatelessWidget {
                     style: TextStyle(fontWeight: FontWeight.bold),
                   ),
                   subtitle: Text('R\$${dish.price.toStringAsFixed(2)}'),
-                  trailing: IconButton(icon: Icon(Icons.add), onPressed: () {}),
+                  trailing: IconButton(
+                    onPressed: () {
+                      context.read<BagProvider>().addAllDishes([dish]);
+                    },
+                    icon: Icon(Icons.add),
+                  ),
                 );
               }),
             ),
